@@ -19,6 +19,11 @@ Fluxo de execução, programação modular
 
 ---
 
+```shell
+
+```
+
+
 
 ```shell
 echo $HOME
