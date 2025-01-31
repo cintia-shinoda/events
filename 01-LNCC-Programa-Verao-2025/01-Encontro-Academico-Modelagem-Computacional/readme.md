@@ -1,22 +1,14 @@
-## XVIII Encontro Acadêmico de Modelagem Computacional - EAMC
+# XVIII Encontro Acadêmico de Modelagem Computacional - EAMC
 
-### Segunda 20/01
-09:00h - 12:0hh - Palestras
-13:30h - 15:00h - Minicurso EA01
-15:30h - 16:30h - Sessão Técnica 1
+https://verao.lncc.br/eamc/
 
-### Terça 21/01
-09:00h - 10:30h - Minicurso EA02
-13:30h - 15:00h - Minicurso EA03
-15:30h - 16:30h - Sessão Técnica 2
 
-### Quarta 22/01
-09:00h - 10:30h - Palestras
-13:30h - 15:00h - Minicurso EA01
-15:30h - 16:30h - Sessão Técnica 3
+---
 
-### Quinta 23/01
-09:00h - 10:30h - Minicurso EA02
-11:00h - 12:00hh - Palestras
-13:30h - 15:00h - Minicurso EA03
-15:30h - 16:30h - Palestras
+## Minicursos
+
+|  |  |  |
+| --- | --- | --- |
+| EA01 | Análise de Dados com Python | Guilherme Guilhermino Neto (IFES) |
+| EA02 | [Modelagem Molecular Aplicada à Descoberta de Fármacos](https://github.com/cintia-shinoda/bioinfo/tree/master/01-Model-Molec-Aplic-Farmacos) | Ana Luiza Martins Karl (LNCC-UENF) |
+| EA03 | Estabilidade de Sistemas Lineares | Hugo Danilo Fernández Sare (UFJF) |
