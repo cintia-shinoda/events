@@ -31,3 +31,8 @@ R.H. Shumway and D.S. Stoffer, 2017, Time Series Analysis and ItsApplications: W
 - Predição
 - Event Detection in Time Series
   - framework R: Harbinger
+
+## Data Mining
+
+
+## Cluster Analysis
