@@ -6,9 +6,12 @@
 ---
 
 ## Download do material
-https://www.Incc.br/~brunoaf/SD06.zipx
+https://www.lncc.br/~brunoaf/SD06.zipx
 https://www.lncc.br/~brunoaf/SD06-final.zip
 https://www.lncc.br/~brunoaf/SD06.pdf
+
+http://www.cenapad-rj.lncc.br/tutoriais/materiais-hpc/semana-sdumont/
+
 
 • Extrair o conteúdo do arquivo e importar as vms através do VirtualBox
 
