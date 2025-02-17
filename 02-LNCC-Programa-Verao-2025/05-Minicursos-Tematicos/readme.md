@@ -1,5 +1,9 @@
 # Minicursos Temáticos
 
+https://verao.lncc.br/minicursos/
+
+
+
 |  | Minicurso | Instrutor(es) |
 |---|---|---|
 |  | [MT01 - Aprendizado de Máquina Quântico](https://github.com/cintia-shinoda/quantum/tree/master/04-Verao-LNCC-2025/02-MT01) | <ul><li>Gilson Giraldi (LNCC)</li><li>Leandro Carlos de Souza (UFPB)</li><li>Renato Portugal (LNCC)</li></ul> |
